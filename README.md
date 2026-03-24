@@ -3,6 +3,7 @@
 ### Installation
 
 We recommend using Anaconda to start this project. You may also refer to [Pointcept](https://github.com/pointcept/pointcept#installation) for environment configuration.
+pre-trained model weight can be downloaded [here](https://huggingface.co/facebook/sonata/blob/main/pretrain-sonata-v1m1-0-base.pth)
 
 ## S3DIS
 
